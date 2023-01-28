@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Slash Server",
-    "currentPage": "main-page.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "temper-m5",
       "title": "TemperM5",
@@ -58,7 +58,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "main-page.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Главная страница",
